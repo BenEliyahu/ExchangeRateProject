@@ -1,0 +1,38 @@
+[
+  {
+    "BaseCurrency": "EUR",
+    "QuoteCurrency": "GBP",
+    "Rate": 0.850900007,
+    "LastUpdateTime": "2025-06-14T13:49:35.1185298Z"
+  },
+  {
+    "BaseCurrency": "EUR",
+    "QuoteCurrency": "ILS",
+    "Rate": 4.181670198,
+    "LastUpdateTime": "2025-06-14T13:49:35.1185336Z"
+  },
+  {
+    "BaseCurrency": "EUR",
+    "QuoteCurrency": "USD",
+    "Rate": 1.154560943,
+    "LastUpdateTime": "2025-06-14T13:49:35.1185339Z"
+  },
+  {
+    "BaseCurrency": "GBP",
+    "QuoteCurrency": "EUR",
+    "Rate": 1.175226221,
+    "LastUpdateTime": "2025-06-14T13:49:35.2343976Z"
+  },
+  {
+    "BaseCurrency": "GBP",
+    "QuoteCurrency": "ILS",
+    "Rate": 4.914408465,
+    "LastUpdateTime": "2025-06-14T13:49:35.2343999Z"
+  },
+  {
+    "BaseCurrency": "USD",
+    "QuoteCurrency": "ILS",
+    "Rate": 3.6218704807,
+    "LastUpdateTime": "2025-06-14T13:49:35.3252899Z"
+  }
+]

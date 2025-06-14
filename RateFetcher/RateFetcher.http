@@ -1,0 +1,6 @@
+@RateFetcher_HostAddress = http://localhost:5022
+
+GET {{RateFetcher_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
